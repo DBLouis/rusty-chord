@@ -1,0 +1,12 @@
+[package]
+name = "rusty-chord"
+version = "0.0.0"
+authors = ["Louis Dupré Bertoni <crates@louisdb.xyz>"]
+license = "GPL-3.0-or-later"
+description = "Chord DHT"
+homepage = "https://github.com/DBLouis/rusty-chord/"
+respository = "https://github.com/DBLouis/rusty-chord/"
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
